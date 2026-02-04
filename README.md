@@ -21,7 +21,6 @@ text@article{gazeran2026ecgnat,
   title={ECG-NAT: A Self-supervised Neighborhood Attention Transformer for Multi-lead ECG Classification},
   author={Gazeran, Mahsa and Soleymanbaigi, Sayvan and Daneshfar, Fatemeh and Seyedi, Amjad and Tab, Fardin Akhlaghian},
   journal={Neurocomputing},
-  year={2026},
-  note={Submitted}
+  year={2026}
 }
 ```
